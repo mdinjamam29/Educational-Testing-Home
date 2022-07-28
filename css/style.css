@@ -15,3 +15,10 @@ body {
 .button-color {
     color: #289BDE;
 }
+ .list-style {
+    list-style: none;
+}
+.footer-height {
+    height: 250px;
+    margin: auto;
+}
