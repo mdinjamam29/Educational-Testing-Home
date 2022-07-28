@@ -1,3 +1,17 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.register-color {
+    background-color: #289BDE;
+    height: 230px;
+    border-radius: 3px;
+    margin-bottom: 40px;
+}
+.text-color-info {
+        background-color: #289BDE;
+        color: #fff ;
+}
+.button-color {
+    color: #289BDE;
+}
